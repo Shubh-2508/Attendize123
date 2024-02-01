@@ -61,6 +61,13 @@ Note: Can be used with `oxsecurity/megalinter@beta` in your GitHub Action mega-l
   - [psalm](https://psalm.dev) from Psalm.5.20.0@ to **Psalm.5.21.0@** on 2024-01-30
   - [checkov](https://www.checkov.io/) from 3.2.2 to **3.2.3** on 2024-01-31
   - [syft](https://github.com/anchore/syft) from 0.102.0 to **0.103.1** on 2024-01-31
+  - [stylelint](https://stylelint.io) from 16.2.0 to **16.2.1** on 2024-02-01
+  - [psalm](https://psalm.dev) from Psalm.5.21.0@ to **Psalm.5.21.1@** on 2024-02-01
+  - [checkov](https://www.checkov.io/) from 3.2.3 to **3.2.4** on 2024-02-01
+  - [trivy-sbom](https://aquasecurity.github.io/trivy/) from 0.48.3 to **0.49.0** on 2024-02-01
+  - [trivy](https://aquasecurity.github.io/trivy/) from 0.48.3 to **0.49.0** on 2024-02-01
+  - [trufflehog](https://github.com/trufflesecurity/trufflehog) from 3.66.2 to **3.66.3** on 2024-02-01
+  - [snakefmt](https://github.com/snakemake/snakefmt) from 0.9.0 to **0.10.0** on 2024-02-01
 <!-- linter-versions-end -->
 
 ## [v7.8.0] - 2024-01-21
